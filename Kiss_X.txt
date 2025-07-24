@@ -1,0 +1,53 @@
+1. Jelaskan pengertian dari Sistem Komputer…
+2. Apa saja komponen sistem dari komputer?
+3. Jelaskan pengertian dari RAM dan apa kepanjangannya?
+4. Sebutkan 10 contoh hardware?
+5. Apa yang dimaksud dengan Hardisk?
+6. Apa yang dimaksud dengan perangkat input pada sistem komputer ?
+7. Sebutkan perangkat input komputer?
+8. Jelaskan fungsi dari Motherboard?
+9. Sebutkan 2 jenis prosesor yang populer digunakan saat ini?
+10. Sebutkan fungsi dari CPU pada komputer?
+11. Sebutkan 4 contoh memori eksternal?
+12. Jelaskan apa fungsi dari I/O Ports?
+13. Fungsi dari monitor untuk apa? 
+14. Fungsi dari Heatsink pada CPU untuk apa?
+15. Fungsi dari processor untuk apa pada komputer?
+16. Sebutkan jenis jenis monitor?
+17. Sebutkan perangkat jaringan internet?
+18. Perbedaan monitor LCD dengan monitor LED apa?
+19. Fungsi printer untuk apa jelaskan?
+20. Fungsi modem pada jaringan internet untuk apa?
+21. Sebutkan jenis jenis printer?
+22. Apa yang di maksud virus pada komputer?
+23. Kabel data berfungsi untuk apa?
+24. Apa yg di maksud dengan brainware jelaskan?
+25. Apa yang menyebabkan Hang pada komputer?
+
+
+1. Array yang berisi beberapa array lain disebut?
+2. Sebutkan dua macam array?
+3. Sekumpulan data yang bertipe sama disebut?
+4. Definisikan apa yg dimaksud algoritma?
+5. Ada beberapa jenis flowchart sebutkan ?
+6. Jelaskan definisi flowchart ?
+7. Apa yang dimaksud Pseude code  ?
+8. apa yang dimaksud konsep dasar pemrograman ?
+9. Jelaskan urutan proses pembuatan program komputer?
+10. Apa yang di maksud software tailor made?
+11. Pemrograman komputer ada yg berbasis GUI coba jelaskan?
+12. Pemrograman komputer berbasis CLI apa terangkan?
+13. Penemu dan pembuat bahasa pemrograman pascal siapa?
+14. Apa yg dimaksud dengan logika?
+15. Gambarkan minimal 3 simbol flowchart?
+16. Simbol flowchart untuk mengawali dan mengakhiri berbentuk apa?
+17. Apa yg dimaksud dengan software jelaskan?
+18. Apa yang di maksud dengan freeware?
+19. Apa yg di maksud software open source?
+20. Apa yg di maksud software system?
+21. Fungsi software anti virus untuk apa?
+22. Sebutkan kerangka sebuah program komputer?
+23. Fungsi software driver untuk apa?
+24. Sebutkan software browser?
+25. Apa yg di maksud pemrograman tersetruktur?
+ 
